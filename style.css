@@ -1,9 +1,12 @@
-#demotext {
-    color: rgba(255, 255, 255, 0.3); /* Set the text color with 0.3 opacity */
-    background-color: rgb(26, 26, 26); /* Ensure background is a solid color */
-    text-shadow: rgba(255, 255, 255, 0.5) 0px 0px 15px, 
-                 rgba(255, 255, 255, 0.5) 0px 0px 10px; /* Apply text shadow with blur effect */
-
-    /* Removed --darkreader-inline-color and --darkreader-inline-bgimage properties 
-       since they are likely used by Dark Reader browser extension */
+:root {
+ --color-1: rgb(0,0,0);
+ --color-2: rgb(0,0,0);
+ --color-3: rgb(0,0,0);
+ --color-4: rgb(0,0,0);
 }
+
+body {
+ background: linear-gradient(90deg, var(--color-1) 0%, var(--color-1) 25%, var(--color-2) 25%, var(--co
+lor-2) 25%, var(--color-2) 50%, var(--color-3) 50%, var(--color-3) 75%, var(--color-4) 75%, var(--color-4) 100%);
+}
+ 
