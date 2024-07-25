@@ -1,8 +1,9 @@
 #demotext {
-color: rgba(255, 255, 255, 0.3);
-background: rgb(26, 26, 26);
-text-shadow: rgba(255, 255, 255, 0.5) 0px 0px 15px, rgba(255, 255, 255, 0.5) 0px 0px 10px;
---darkreader-inline-color: rgba(232, 230, 227, 0.3);
---darkreader-inline-bgimage: initial;
---darkreader-inline-bgcolor: #141516;
+    color: rgba(255, 255, 255, 0.3); /* Set the text color with 0.3 opacity */
+    background-color: rgb(26, 26, 26); /* Ensure background is a solid color */
+    text-shadow: rgba(255, 255, 255, 0.5) 0px 0px 15px, 
+                 rgba(255, 255, 255, 0.5) 0px 0px 10px; /* Apply text shadow with blur effect */
+
+    /* Removed --darkreader-inline-color and --darkreader-inline-bgimage properties 
+       since they are likely used by Dark Reader browser extension */
 }
