@@ -1,0 +1,8 @@
+#demotext {
+color: rgba(255, 255, 255, 0.3);
+background: rgb(26, 26, 26);
+text-shadow: rgba(255, 255, 255, 0.5) 0px 0px 15px, rgba(255, 255, 255, 0.5) 0px 0px 10px;
+--darkreader-inline-color: rgba(232, 230, 227, 0.3);
+--darkreader-inline-bgimage: initial;
+--darkreader-inline-bgcolor: #141516;
+}
