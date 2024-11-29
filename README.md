@@ -1,5 +1,5 @@
-# <span style="color: rgb(173, 216, 230);">WELCOME TO:</span>
-## <span style="color: rgb(75, 0, 130);">LEAHWORKS</span>
+# <font color="lightblue">WELCOME TO:</font>
+## <font color="indigo">LEAHWORKS</font>
 
 ## Personal Official Website
 
