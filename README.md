@@ -5,4 +5,5 @@
 
 # REWORKED: 11/28/2024
 
-$${\color{purple}Purple}$$ 
+$$ {\color{purple} \huge WELCOME} $$
+
