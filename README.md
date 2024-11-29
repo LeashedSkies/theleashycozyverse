@@ -5,4 +5,4 @@
 
 # REWORKED: 11/28/2024
 
-$${\color{blue}Blue}$$ 
+$${\color{purple}Purple}$$ 
