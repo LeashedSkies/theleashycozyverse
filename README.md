@@ -5,5 +5,6 @@
 
 # REWORKED: 11/28/2024
 
-$$ {\color{purple} \huge WELCOME} $$
+$$ {\color[HTML]{9B30FF} \Huge \textbf{WELCOME}} $$
+
 
